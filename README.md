@@ -13,3 +13,5 @@ The download may not work, but the core c++ file should be enough to see what I 
 
 # Demo 2, calculated solar system
 ![](g2.gif)
+
+These gifs are a bit low quality, aee grav1.mp4 and grav2.mp4 for originals

@@ -9,7 +9,7 @@ The download may not work, but the core c++ file should be enough to see what I 
 
 
 # Demo 1, chaos cluster
-![](grav1.gif)
+![](grav1.mp4)
 
 # Demo 2, calculated solar system
-![](grav2.gif)
+![](grav2.mp4)

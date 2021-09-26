@@ -12,4 +12,4 @@ The download may not work, but the core c++ file should be enough to see what I 
 ![](grav1.mp4)
 
 # Demo 2, calculated solar system
-![](grav2.mp4)
+![](https://giphy.com/gifs/wsx7ibY3oE8jUUjo2C)

@@ -12,4 +12,4 @@ The download may not work, but the core c++ file should be enough to see what I 
 ![](g1.gif)
 
 # Demo 2, calculated solar system
-![](https://giphy.com/gifs/wsx7ibY3oE8jUUjo2C)
+![](g2.gif)

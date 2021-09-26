@@ -1,1 +1,1 @@
-# N-Body-Gravity-Simulator
+# solarSim

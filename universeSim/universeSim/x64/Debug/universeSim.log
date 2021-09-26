@@ -1,0 +1,34 @@
+﻿  universeSim.cpp
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(519,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(521,46): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(526,45): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(725,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(728,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(763,136): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(763,81): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(829,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(832,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(903,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(1003,173): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(1003,87): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(1003,192): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(1078,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(1118,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aus3d\Documents\c++\solarSim\universeSim\universeSim\universeSim.cpp(1119,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  universeSim.vcxproj -> C:\Users\aus3d\Documents\c++\solarSim\universeSim\x64\Debug\universeSim.exe
